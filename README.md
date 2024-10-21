@@ -1,5 +1,13 @@
 # Image-Processor-App
--> This repo contains only the reports(contains some code) and video of the working project. Unfortunately, I didn't get to back up the project files due to my PC breaking down and losing all the data.
--> However, I do have the reports and methods of the application. you can also find key algorithms and code modules in the reports.
--> Refer this [Link](https://drive.google.com/drive/folders/1lzBTN49lc2axxAwl8vj4l3e5LYdLgYQH?usp=sharing)  for working video of the project.
-THANK YOU :)
+
+This fun project was built on my interest in creating a single stop for various image-processing methods. 
+This is still a prototype app with all the below functionalities:
+
+-> Extract Image Properties
+-> Image Analysis
+-> Image Hashing and Matching
+-> Age and Gender Detection(Human Images)
+-> Geo-Location of the Image captured
+-> Lossless Compression of the Image
+
+Please refer to the videos and reports in the repo for a clear understanding of the project.
