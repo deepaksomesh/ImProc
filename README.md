@@ -1,13 +1,13 @@
 # Image-Processor-App
 
-This fun project was built on my interest in creating a single stop for various image-processing methods. 
-This is still a prototype app with all the below functionalities:
+This fun project was built on my interest in creating a single stop for various image-processing methods. <br />
+This is still a prototype app with all the below functionalities:<br />
 
--> Extract Image Properties
--> Image Analysis
--> Image Hashing and Matching
--> Age and Gender Detection(Human Images)
--> Geo-Location of the Image captured
--> Lossless Compression of the Image
+-> Extract Image Properties<br />
+-> Image Analysis<br />
+-> Image Hashing and Matching<br />
+-> Age and Gender Detection(Human Images)<br />
+-> Geo-Location of the Image captured<br />
+-> Lossless Compression of the Image<br />
 
 Please refer to the videos and reports in the repo for a clear understanding of the project.
