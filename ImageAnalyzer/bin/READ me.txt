@@ -1,0 +1,5 @@
+run main.py file to execute the project
+
+if throws errors on packages or dependencies just click "packages" file to install packages(only if you are using IDLE python)
+
+**make sure you installed python latest version in your pc.

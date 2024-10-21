@@ -1,0 +1,7 @@
+('Type of the image : \n', <class 'numpy.ndarray'>)Shape of the image : (896, 1280, 3) 
+Image Height 896 
+Image Width 1280 
+Dimension of Image 3 
+Image size 3440640 
+Maximum RGB value in this image 255 
+Minimum RGB value in this image 0 
